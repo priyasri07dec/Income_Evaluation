@@ -116,6 +116,13 @@ An interactive Streamlit web app was developed users can"
 
 ### Project Screenshot
 
-![App Screenshot]()
+![App Screenshot](web_app.png)
 
+### Streamlit App Link
+
+https://priya-srivastava-incomeevaluation.streamlit.app/
+
+### Conclusion
+
+This project demonstrates the complete Machine Learning lifecycle from raw data preprocessing to deployment. XGBoost achieved the best performance for income classification and successfully generalized on unseen data.
 
